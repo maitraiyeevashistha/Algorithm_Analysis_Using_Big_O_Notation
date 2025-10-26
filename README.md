@@ -1,7 +1,5 @@
 # Algorithm Analysis using Big O Notation
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3
+
 ## Title: Understanding Algorithm Analysis using Big O Notation in C++
 -----
 ## Overview
